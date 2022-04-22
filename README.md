@@ -5,7 +5,7 @@ I am professional developer. My dream is to create the real Metaverse, I was thi
 - https://medium.com/@enrico-speranza
 - https://twitter.com/vytek75
 - https://www.facebook.com/enrico.speranza
-- https://www.youtube.com/channel/UCOXrqn1uSP-Wll_tAc6SlFQ
+- https://about.me/enrico.speranza
 
 <!---
 Vytek/Vytek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
