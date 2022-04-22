@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Vytek
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+I am professional developer. My dream is to create the real Metaverse, I was thinking about it long before it was talked about ;-)
+
+https://medium.com/@enrico-speranza
+https://twitter.com/vytek75
+https://www.facebook.com/enrico.speranza
 
 <!---
 Vytek/Vytek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
